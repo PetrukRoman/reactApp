@@ -1,0 +1,24 @@
+.topic {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  flex-grow: 1;
+  width: 100%;
+  background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+.content {
+  overflow: hidden;
+  padding: 20px;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  margin: 0 auto auto;
+  width: 1000px;
+  box-sizing: border-box;
+}
+p {
+  font-size: 18px;
+}
+li {
+  font-size: 18px;
+}
